@@ -98,6 +98,7 @@ font-family: "sans-serif";
   }
 }
 
+
 .impact {
   background-color: #CFF0DC; 
   height: 60vh;             
@@ -122,6 +123,7 @@ font-family: "sans-serif";
   gap: 1.5rem;
   width: 100%;
   max-width: 1000px;
+  
 }
 
 .card {
